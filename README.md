@@ -100,8 +100,8 @@ This project is licensed under the MIT License.
 ## 🙋‍♂️ Contact
 
 For questions or feedback, feel free to reach out:
-- GitHub: [yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: Dinraj K Dinesh(https://github.com/dinraj910)
+- Email: dinrajdinesh564@gmail.com
 
 ---
 
