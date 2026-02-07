@@ -1,0 +1,25 @@
+# Core Web Framework
+Flask==3.0.0
+Werkzeug==3.0.1
+
+# Data Science and Machine Learning (Updated to match model versions)
+numpy==1.26.4
+pandas==2.1.4
+scikit-learn==1.6.1
+joblib==1.4.0
+
+# Data Visualization (for model development/analysis)
+matplotlib==3.8.2
+seaborn==0.13.1
+
+# Additional dependencies that Flask might need
+Jinja2==3.1.3
+MarkupSafe==2.1.4
+itsdangerous==2.1.2
+click==8.1.7
+
+# For better performance and compatibility
+gunicorn==21.2.0
+
+# Security and utilities
+blinker==1.7.0
